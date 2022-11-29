@@ -82,17 +82,21 @@ p {
     }
     #third {
         text-align: left;
-        padding: 30px 750px 30px 30px;     
+        padding: 0px 780px 0px 10px;     
     }
     #img2 {
         text-align: right;
-        padding: 0px 10px 30px 820px;
+        padding: 0px 10px 0px 800px;
     }
     #fourth {
         text-align: right;
-        padding: 0px 10px 30px 700px;
+        padding: 0px 10px 0px 800px;
     }
     #img3 {
-    text-align: right;
-    padding: 0px 750px 10px 10px;
+    text-align: left;
+    padding: 0px 800px 0px 10px;
+    }
+    #fifth {
+        text-align: left;
+        padding: 0px 800px 0px 10px
     }
