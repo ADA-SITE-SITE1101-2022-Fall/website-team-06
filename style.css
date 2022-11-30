@@ -2,7 +2,7 @@
 background-image: url("media/background2.jpg");
 background-repeat: no-repeat;
 background-size: cover;
-height: 800vh;
+height: 730vh;
 background-attachment: fixed;
 }
 #name {
@@ -62,7 +62,9 @@ p {
         background-image: url("media/background1.jpg");  
     }      
    #event {
-        padding-top: 100px;
+        text-align: center;
+        padding: 150px 10px 30px 10px;
+        font-size: 30px;
     }  
     img {
         width: 550px;
@@ -100,3 +102,21 @@ p {
         text-align: left;
         padding: 0px 800px 0px 10px
     }
+    #project {
+        text-align: center;
+        padding: 150px 10px 30px 10px;
+        font-size: 30px;
+    }
+.contact {
+    background-image: url("media/contact.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:local;
+    margin: 0%;
+
+}
+#contact1, #contact2, #contact3, #contact4{
+    color: white;
+    text-align: left;
+    margin: 0%;
+}
